@@ -1,0 +1,30 @@
+@import "https://fonts.googleapis.com/css?family=Encode Sans Expanded";
+
+h1, h2, h3, h4 {
+	font-family: Encode Sans Expanded;
+}
+a {
+	text-decoration: none;
+	color: black;
+}
+p {
+	font-family: arial, sans-serif;
+}
+table {
+	font-family: arial, sans-serif;
+	border-collapse: collapse;
+	border: 1px solid #dbdbdb;
+}
+td, th {
+	border: 1px solid #dbdbdb;
+	text-align: left;
+	padding: 8px;
+	white-space: nowrap;
+}
+tr:nth-child(even) {
+	background-color: #e2e2e2;
+}
+.link {
+	font-family: Consolas, monospace;
+	color: blue;
+}
